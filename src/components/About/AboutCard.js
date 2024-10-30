@@ -37,12 +37,12 @@ function AboutCard() {
             </li>
             <li className="about-activity">
               <ImPointRight /> Connect with me on 
-    <a href="https://www.linkedin.com/in/dhruv-chavda-4a3144285/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" class="social-link">LinkedIn</a> 
+    <a href="https://www.linkedin.com/in/dhruv-chavda-4a3144285/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer noopener" class="social-link">LinkedIn</a> 
             </li>
             <li className="about-activity">
               <ImPointRight />  
       Check out my work on  
-    <a href="https://github.com/Chavdadhruv" target="_blank" class="social-link">GitHub</a>.
+    <a href="https://github.com/Chavdadhruv" target="_blank" rel="noreferrer noopener" class="social-link">GitHub</a>.
             </li>
           </ul>
 

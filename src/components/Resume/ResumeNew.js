@@ -5,7 +5,7 @@ import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 import Particle from "../Particle";
-import pdf from "C:/Complete-Working-Contact-Form-in-react-js-06-Modern-Contact-Form-React-through-EmailJs-main/Portfolio-master/Portfolio-master/src/Assets/Dhruv_Chandreshbhai_Chavda.pdf";
+import pdf from "C:/Complete-Working-Contact-Form-in-react-js-06-Modern-Contact-Form-React-through-EmailJs-main/Portfolio-master/Portfolio-master/src/Assets/Dhruv_Chavda.pdf";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 function ResumeNew() {
